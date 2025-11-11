@@ -10,6 +10,7 @@
 - 當所有圖片 URL 皆載入失敗時，載入預設圖片。
 - 實作圖片載入動畫效果。
 - 實作圖片 preload 或 lazy load。
+- 可傳入參數`fetchPriority`，指定圖片抓取的優先順序。
 
 ## How to Use This Pkg as React Component ?
 
